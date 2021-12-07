@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #218eaf
+    }
+    
+    p{
+    font-size: 25px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    body {
+    background-color: #010505;
+    }
